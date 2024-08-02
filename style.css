@@ -29,3 +29,12 @@ header span{
      background-size: contain; 
     background-repeat: no-repeat;   
 }
+footer{
+    background-color: #B43F3F;
+}
+footer .icon- i{
+    color:white;
+}
+#app{
+    color: #B43F3F;
+}
